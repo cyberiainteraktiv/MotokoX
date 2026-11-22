@@ -1,6 +1,6 @@
 # MotokoX
 <p align="center">
-  <img src="Xbox/cover.png" alt="" /><br>
+  <img src="Xbox/cover.png" alt="" /> <img src="Xbox/cover-alt.png" alt="" /><br>
   <img src="screenshots/1.png" alt="" /><br>
   <img src="screenshots/3.png" alt="" /><br>
   <img src="screenshots/save1.png" alt="" /><br>
